@@ -1,0 +1,33 @@
+@media all and (max-width: 1000px){
+    
+    .main-heading h1{
+        width: 70%;
+        font-size: 55px;
+    }
+
+    .main-heading p{
+        width: 70%;
+    }
+
+}
+
+
+@media all and (max-width: 670px){
+
+    .header-right {
+        display: none;
+    }
+
+    .main-heading h1 {
+        font-size: 50px;
+    }
+
+    .f-container {
+        box-align: center;
+    }
+           
+    .main-heading {
+        text-align: left;
+    }
+
+}
